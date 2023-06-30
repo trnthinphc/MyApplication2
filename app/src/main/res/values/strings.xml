@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application2</string>
+
+    //Headings
+    <string name="heading_one">Identify Plants</string>
+    <string name="heading_two">Learn Many Plants Species</string>
+    <string name="heading_three">Read Many Articles About Plant</string>
+
+    //Description
+    <string name="desc_one">You can identify the plants you do not know through your camera</string>
+    <string name="desc_two">Lets learn about the many plant species that exist in this world</string>
+    <string name="desc_three">Lets learn more about beautiful plants and read many articles about plants and gardening</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="next">Next</string>
+    <string name="title_text">Title Text</string>
+    <string name="description_text">Description Text</string>
+    <!-- strings.xml -->
+    <string name="hello">Hello</string>
+    <string name="let_s_learn">Lets Learn More About Plants</string>
+    <string name="forgot_pass">Forgot Password?</string>
+
+    <string name="signup">SignUp</string>
+    <string name="register_ne">Register new account</string>
+
+    <string name="forget_pass">Forget password</string>
+    <string name="reset_link_">Reset link will be sent your email</string>
+    <string name="hello_taylo">Hello Taylor,</string>
+
+    <string name="photo">PHOTO</string>
+    <string name="tbd">#1 TBD</string>
+    <string name="adding_new">Adding New</string>
+</resources>
